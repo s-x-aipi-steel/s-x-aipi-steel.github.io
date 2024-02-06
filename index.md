@@ -1,5 +1,5 @@
 
-# s-X-AIPI Steel Use Case
+![Project logo](logo-sxaipi.jpg)
 
 On this page, you can find the source code published from the steel use case of the European research project s-X-AIPI.
 
